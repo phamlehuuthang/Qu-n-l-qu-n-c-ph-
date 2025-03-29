@@ -12,4 +12,5 @@ package views;
  * @version: 1.0
  */
 public class BanView {
+
 }
